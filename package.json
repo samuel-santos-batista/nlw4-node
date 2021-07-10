@@ -1,0 +1,8 @@
+{
+  "name": "nlw4-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuel-santos-batista/nlw4-node.git",
+  "author": "samuel <samuelsantxxi@gmail.com>",
+  "license": "MIT"
+}
